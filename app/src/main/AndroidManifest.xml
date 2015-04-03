@@ -19,6 +19,7 @@
         <activity android:name=".Menu1" />
         <activity android:name=".Menu2" />
         <activity android:name=".Menu3" />
+        <activity android:name=".Menu4" />
     </application>
 
 </manifest>
